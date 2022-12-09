@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
 
 ## 🌐 Socials:
@@ -30,7 +29,5 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
----
 
 
