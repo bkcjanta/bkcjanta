@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS | NodeJS | mongoDB**
 
-- 👨‍💻 All of my projects are available at [https://bkcjanta.github.io/](https://bkcjanta.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://bkcjanta.github.io/)
 
 - 💬 Ask me about **JavaScript | ReactJS | NodeJS | mongoDB**
 
