@@ -1,4 +1,4 @@
-![logo](https://github.com/bkcjanta/bkcjanta/blob/master/banner.gif)
+![logo]([https://github.com/bkcjanta/bkcjanta/blob/master/banner.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Mw8Z_sniBJv3cGVOM_DZw2NyjUDUZmcMfw&usqp=CAU))
 <h1 align="center">Hi 👋, I'm Bhupendra Kumar Chandrakar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
