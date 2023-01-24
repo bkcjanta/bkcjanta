@@ -22,7 +22,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div display="flex" flrx-directio="row">
+<div style="display: flex; flex-direction: column;">
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="css3"/> </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/22d1116e541b7b380161ed7c77ceb24e5e88a71acbec6d9dae7a5624b23a46fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d2532334630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="git" /> </a> 
