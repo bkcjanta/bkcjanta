@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- [Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/bhupendra-kumar-chandrakar/)
+- [Linkedin](https://www.linkedin.com/in/bhupendra-kumar-chandrakar/)
 
 
 <h3 align="left">Languages and Tools:</h3>
